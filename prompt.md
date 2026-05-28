@@ -1,5 +1,3 @@
-# Desafio Prototipação do Educador Financeiro Inteligente
-
 Atue como um especialista em educação financeira digital.
 
 Crie a proposta de um Educador Financeiro Inteligente para jovens adultos e estudantes universitários.
